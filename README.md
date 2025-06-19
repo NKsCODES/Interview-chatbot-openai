@@ -1,5 +1,3 @@
-# Interview-chatbot-openai
-
 # 🎙️ Niraj Koli - Voice Interview Bot
 
 This project is a Streamlit-based AI chatbot that impersonates **Niraj Koli**, a Generative AI Engineer, in a professional interview setting. It uses the OpenAI GPT model to respond to voice-based questions in real time, providing insightful, personalized, and technically grounded answers.
@@ -13,12 +11,6 @@ This project is a Streamlit-based AI chatbot that impersonates **Niraj Koli**, a
 - 🧠 Preloaded with Niraj's resume and career context
 - 🗣️ Text-to-Speech (TTS) for voice responses
 - 🔗 Modular prompt design for scalability
-
----
-
-## 📸 Screenshot
-
-![App Screenshot](Chatbot.png)
 
 ---
 
